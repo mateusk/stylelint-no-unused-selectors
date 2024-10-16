@@ -1,7 +1,7 @@
-# @mateusk/stylelint-no-unused-selectors
+# @mknelsen/stylelint-no-unused-selectors
 
-[![npm version](https://img.shields.io/npm/v/@mateusk/stylelint-no-unused-selectors.svg)](https://www.npmjs.com/package/@mateusk/stylelint-no-unused-selectors)
-[![license](https://img.shields.io/npm/l/@mateusk/stylelint-no-unused-selectors.svg)](LICENSE)
+[![npm version](https://img.shields.io/npm/v/@mknelsen/stylelint-no-unused-selectors.svg)](https://www.npmjs.com/package/@mknelsen/stylelint-no-unused-selectors)
+[![license](https://img.shields.io/npm/l/@mknelsen/stylelint-no-unused-selectors.svg)](LICENSE)
 
 A Stylelint plugin that detects and flags unused CSS selectors in your HTML, Vue, and other template files, helping you keep your codebase clean and optimized.
 
@@ -17,7 +17,7 @@ A Stylelint plugin that detects and flags unused CSS selectors in your HTML, Vue
 Install the plugin as a development dependency using NPM or Yarn:
 
 ```bash
-npm install @mateusk/stylelint-no-unused-selectors --save-dev
+npm install @mknelsen/stylelint-no-unused-selectors --save-dev
 # or
-yarn add @mateusk/stylelint-no-unused-selectors --dev
+yarn add @mknelsen/stylelint-no-unused-selectors --dev
 ```
