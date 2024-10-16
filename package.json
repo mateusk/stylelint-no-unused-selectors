@@ -21,5 +21,12 @@
   "bugs": {
     "url": "https://github.com/mateusk/stylelint-no-unused-selectors/issues"
   },
-  "homepage": "https://github.com/mateusk/stylelint-no-unused-selectors#readme"
+  "homepage": "https://github.com/mateusk/stylelint-no-unused-selectors#readme",
+  "peerDependencies": {
+    "stylelint": "^16.0.0"
+  },
+  "devDependencies": {
+    "htmlparser2": "^9.1.0",
+    "postcss-selector-parser": "^6.1.2"
+  }
 }
