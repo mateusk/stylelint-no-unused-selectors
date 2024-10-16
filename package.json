@@ -1,5 +1,5 @@
 {
-  "name": "stylelint-no-unused-selectors",
+  "name": "@mateusk/stylelint-no-unused-selectors",
   "version": "1.0.0",
   "description": "A Stylelint plugin to detect unused CSS selectors in HTML, Vue, and other templates.",
   "main": "src/index.js",
