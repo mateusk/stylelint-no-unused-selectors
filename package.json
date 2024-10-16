@@ -1,5 +1,5 @@
 {
-  "name": "@mateusk/stylelint-no-unused-selectors",
+  "name": "@mknelsen/stylelint-no-unused-css-selectors",
   "version": "1.0.0",
   "description": "A Stylelint plugin to detect unused CSS selectors in HTML, Vue, and other templates.",
   "main": "src/index.js",
@@ -21,10 +21,5 @@
   "bugs": {
     "url": "https://github.com/mateusk/stylelint-no-unused-selectors/issues"
   },
-  "homepage": "https://github.com/mateusk/stylelint-no-unused-selectors#readme",
-  "peerDependencies": {
-    "stylelint": "^16.10.0",
-    "htmlparser2": "^9.1.0",
-    "postcss-selector-parser": "^6.1.2"
-  }
+  "homepage": "https://github.com/mateusk/stylelint-no-unused-selectors#readme"
 }
