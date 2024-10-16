@@ -22,7 +22,6 @@
   "peerDependencies": {
     "stylelint": "^16.10.0",
     "htmlparser2": "^9.1.0",
-    "postcss-html": "^1.7.0",
     "postcss-selector-parser": "^6.1.2"
   }
 }
